@@ -1,0 +1,118 @@
+/*
+Theme Name: U-Design
+Theme URI: http://themeforest.net/item/udesign-wordpress-theme/253220?ref=internq7
+Description: A slick, powerful and clean theme.
+Author: Andon
+Author URI: http://themeforest.net/user/internq7/portfolio?ref=internq7
+Version: 2.0.0
+License: Located in 'licensing' folder
+License URI: Located in 'licensing' folder
+*/
+
+/*
+    Do not remove any of the commented text above as it is used by the theme for proper function!
+
+    All the themes' CSS files are located under the 'styles/' sub-folder...
+
+    If you would like to use this file to add any custom CSS, you'll need to enable it first  
+    from the theme's "General Options" section.
+    Please note: After enabling the use of this file, you will not see any change here, 
+    feel free to add your custom CSS below.
+    On the other hand, if you need access to the theme's main style sheet, you will 
+    need FTP client to access it, is it located in: "styles/style1/css/style.css"
+*/
+ul#main-top-menu{
+	margin-top: -42px !important;
+}
+ul#main-top-menu li.menu-item a:hover, ul#main-top-menu li.menu-item a:hover span{
+	text-decoration:underline !important;
+	color: #FF4D3B;
+}
+#main-menu{
+	height: 0;
+}
+#footer-bg{
+	background-color: #FE7701;
+}
+.boxSocial{
+ background:white; 
+ width: 240px; 
+ height:250px;
+ overflow: hidden;
+
+}
+boxSocial:first-child{
+	 margin-left: 40px!important;
+}
+.boxHome{
+   text-align: center;	
+}
+.boxHome p{ 
+	text-align: center !important;
+}
+h1.titleHome{ text-align: center;}
+#footer_text{ color:white; font-size: 14px;}
+blockquote.alignleft {
+	width:100%;
+}
+a.lnkResenas{
+	color: red;
+    display: block;
+}
+p.resenas{
+	text-align: right;
+	float: right;
+	display: block;
+}
+a.lnkResenas:hover{
+	text-decoration: underline;
+
+}
+
+.mnuComida h2{
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+   font-size: 18px;
+}
+.mnuComida  ul{
+	list-style-type: none;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.mnuComida  ul li{
+	margin: 1px 0 1px 0;
+	padding: 3px 0 3px 5px;
+
+}
+.mnuComida  ul li:hover{
+    background-color:#FAE9E3;
+	border-bottom:1px dashed #666;
+}
+section#mnuMainComida{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	margin-right:1%; 
+}
+section#platillos{
+	display: inline-block;
+	float: left;
+	width: 70%;
+	margin-left:1%; 
+}
+.mnuMainComida p, .lnkComida{ 
+    text-align: center!important; 
+    display: block;
+}
+.price{
+    float: right;
+    font-weight: bold;
+	color:#F00;
+}
+.price:before{
+	content:"$ ";
+	
+}
+p.selected{
+	background:-moz-linear-gradient(center top , #FFFCB5, #F4CBCB) repeat scroll 0 0 transparent; background: -webkit-gradient(linear, center top, center bottom, from(#FFFCB5), to(#F4CBCB)); background: -o-linear-gradient(top, #FFFCB5 0%,#F4CBCB 99%); /* Opera 11.10+ */ background: -ms-linear-gradient(top, #FFFCB5 0%,#F4CBCB 99%); /* IE10+ */ margin-left:0 !important; margin-right:0 !important; border:1px solid #BBBBBB; background-color: #F4CBCB; width:100%; color:#333333;
+}

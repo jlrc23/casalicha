@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FourSquareAPI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-11 01:15+1000\n"
+"PO-Revision-Date: 2011-11-11 03:13+1000\n"
+"Last-Translator: NZGuru <admin@nzguru.net>\n"
+"Language-Team: NZGuru <admin@nzguru.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: FourSquareAPI.php:52
+msgid "FourSquareAPI Settings"
+msgstr "FourSquareAPI Configuración"
+
+#: FourSquareAPI.php:52
+msgid "FourSquareAPI"
+msgstr "FourSquareAPI"
+
+#: FourSquareAPI.php:241
+msgid "This widget displays your foursquare&reg; venue data."
+msgstr "Este widget muestra el cuadrado de datos local ®."
+
+#: FourSquareAPI.php:242
+#, fuzzy
+msgid "FourSquareAPI Venues"
+msgstr "FourSquareAPI Salas"
+
+#: FourSquareAPI.php:276
+#: FourSquareAPI.php:423
+msgid "Data Type"
+msgstr "Tipo de datos"
+
+#: FourSquareAPI.php:280
+#: html/config.php:181
+msgid "Venue History"
+msgstr "Lugar de Historia"
+
+#: FourSquareAPI.php:283
+msgid "Recent Checkins"
+msgstr "Protecciones Recientes"
+
+#: FourSquareAPI.php:286
+#: html/config.php:231
+msgid "Mayorships"
+msgstr "Alcaldías"
+
+#: FourSquareAPI.php:290
+#: FourSquareAPI.php:431
+msgid "Widget Title"
+msgstr "Widget Título"
+
+#: FourSquareAPI.php:294
+#: FourSquareAPI.php:435
+msgid "Widget Byline"
+msgstr "Widget Byline"
+
+#: FourSquareAPI.php:298
+#: FourSquareAPI.php:439
+msgid "Widget Width"
+msgstr "Widget Ancho"
+
+#: FourSquareAPI.php:298
+#: FourSquareAPI.php:439
+msgid "(in px)"
+msgstr "(en píxeles)"
+
+#: FourSquareAPI.php:302
+#: FourSquareAPI.php:443
+msgid "Map Height"
+msgstr "Mapa de Altura"
+
+#: FourSquareAPI.php:302
+#: FourSquareAPI.php:443
+msgid "(in px, 0 to disable map)"
+msgstr "(en px, 0 para desactivar el mapa)"
+
+#: FourSquareAPI.php:306
+#: FourSquareAPI.php:447
+msgid "Initial Map Zoom Level"
+msgstr "Mapa Inicial Nivel de Zoom"
+
+#: FourSquareAPI.php:310
+msgid "Venues Limit"
+msgstr "Lugares Límite"
+
+#: FourSquareAPI.php:310
+msgid "(0 to show all available)"
+msgstr "(0 para mostrar todos los disponibles)"
+
+#: FourSquareAPI.php:317
+#: FourSquareAPI.php:464
+msgid "Show Timestamp"
+msgstr "Mostrar Fecha y hora"
+
+#: FourSquareAPI.php:322
+#: FourSquareAPI.php:474
+msgid "Show Address"
+msgstr "Mostrar Dirección"
+
+#: FourSquareAPI.php:327
+#: FourSquareAPI.php:479
+msgid "Show Stats"
+msgstr "Mostrar Estadísticas"
+
+#: FourSquareAPI.php:332
+#: FourSquareAPI.php:484
+msgid "List instead of scrolling box"
+msgstr "Lista en lugar de la caja de desplazamiento"
+
+#: FourSquareAPI.php:335
+#: FourSquareAPI.php:487
+msgid "Autoscroll Rate"
+msgstr "Tasa de desplazamiento automático"
+
+#: FourSquareAPI.php:335
+#: FourSquareAPI.php:487
+msgid "(in milliseconds, 0 to disable, ignored if list)"
+msgstr "(en milésimas de segundo, 0 para desactivarlo, ignora si la lista)"
+
+#: FourSquareAPI.php:339
+#: FourSquareAPI.php:491
+msgid "Unique ID"
+msgstr "ID único"
+
+#: FourSquareAPI.php:346
+#: FourSquareAPI.php:498
+msgid "Link back to NZGuru (I appreciate it)"
+msgstr "Enlace a NZGuru (se lo agradezco)"
+
+#: FourSquareAPI.php:378
+#: FourSquareAPI.php:532
+msgid "powered by"
+msgstr "Desarrollado por"
+
+#: FourSquareAPI.php:386
+msgid "This widget displays your foursquare&reg; badge data."
+msgstr "Este widget muestra el cuadrado de datos insignia ®."
+
+#: FourSquareAPI.php:387
+#, fuzzy
+msgid "FourSquareAPI Badges"
+msgstr "Insignias FourSquareAPI"
+
+#: FourSquareAPI.php:427
+#: html/config.php:256
+msgid "Badges"
+msgstr "Emblemas"
+
+#: FourSquareAPI.php:454
+msgid "Show Description"
+msgstr "Mostrar descripción"
+
+#: FourSquareAPI.php:459
+msgid "Show Only Earned"
+msgstr "Mostrar sólo Ganado"
+
+#: FourSquareAPI.php:469
+msgid "Show Venue"
+msgstr "Informaciones para su visita"
+
+#: FourSquareAPI.php:862
+msgid "Not earned yet!"
+msgstr "No ganó todavía!"
+
+#: FourSquareAPI.php:1067
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: FourSquareAPI.php:1069
+msgid "Y/m/d"
+msgstr ""
+
+#: FourSquareAPI.php:1070
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: FourSquareAPI.php:1070
+msgid "Unlocked at"
+msgstr "desbloqueado en"
+
+#: FourSquareAPI.php:1070
+msgid "Last visited"
+msgstr "Última visita"
+
+#: FourSquareAPI.php:1070
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: FourSquareAPI.php:1103
+msgid "VENUE TIPS"
+msgstr "CONSEJOS PARA SEDE"
+
+#: FourSquareAPI.php:1104
+msgid "TOTAL PEOPLE"
+msgstr "Total de personas"
+
+#: FourSquareAPI.php:1105
+msgid "TOTAL CHECK-INS"
+msgstr "TOTAL DE CHECK-INS"
+
+#: html/config.php:4
+msgid "Like this plugin?"
+msgstr "Al igual que este plugin?"
+
+#: html/config.php:6
+msgid "Please consider one of the following ..."
+msgstr "Por favor, considere una de las siguientes ..."
+
+#: html/config.php:8
+msgid "Enable the credit link in the widget"
+msgstr "Habilitar el enlace de crédito en el widget"
+
+#: html/config.php:9
+msgid "Give it a rating on"
+msgstr "Darle una calificación de"
+
+#: html/config.php:10
+msgid "Donate for development"
+msgstr "Donar para el desarrollo"
+
+#: html/config.php:36
+msgid "Not connected to foursquare&reg;"
+msgstr "No está conectado a foursquare ®"
+
+#: html/config.php:51
+msgid "The process to set up OAuth authentication for your web site is a simple 3-steps."
+msgstr "El proceso para configurar la autenticación OAuth para su sitio web es un simple de 3 pasos."
+
+#: html/config.php:52
+msgid "1. Register this site as an application on "
+msgstr "1. Registro de este sitio como una aplicación en"
+
+#: html/config.php:52
+msgid "the foursquare&reg; application registration page"
+msgstr "la aplicación cuadrado ® página de registro"
+
+#: html/config.php:54
+msgid "If you are not currently logged in, log-in with the foursquare&reg; account which you want associated with this site"
+msgstr "Si usted no está conectado, de inicio de sesión con la cuenta cuadrado ® que desea asociar a este sitio"
+
+#: html/config.php:55
+msgid "Your Application Name is for your own reference only."
+msgstr "Su nombre es de aplicación para su propia referencia solamente."
+
+#: html/config.php:56
+msgid "Your Application Web Site should be"
+msgstr "Su sitio web debe ser de aplicación"
+
+#: html/config.php:57
+msgid "The WebSite and Callback URL should be "
+msgstr "El URL del sitio web y de devolución de llamada debe ser"
+
+#: html/config.php:59
+msgid "Once you have registered your site as an application, you will be provided with two keys."
+msgstr "Una vez registrado su sitio web como una aplicación, se dispone de dos teclas."
+
+#: html/config.php:60
+msgid "2. Copy and paste your Client ID and Client Secret into the fields below"
+msgstr "2. Copia y pega el ID del cliente y el secreto del cliente en los campos de abajo"
+
+#: html/config.php:65
+#: html/config.php:129
+msgid "Client ID"
+msgstr "ID de cliente"
+
+#: html/config.php:69
+#: html/config.php:133
+msgid "Client ID from foursquare&reg;"
+msgstr "ID de cliente de Foursquare ®"
+
+#: html/config.php:74
+#: html/config.php:139
+msgid "Client Secret"
+msgstr "cliente Secreto"
+
+#: html/config.php:78
+#: html/config.php:143
+msgid "Client Secret from foursquare&reg;"
+msgstr "Secreto del cliente de Foursquare ®"
+
+#: html/config.php:86
+msgid "3. Now that your have your application details, you may connect to foursquare&reg;"
+msgstr "3. Ahora que tu tiene los detalles de su aplicación, es posible conectarse a foursquare ®"
+
+#: html/config.php:92
+msgid "Update API Keys"
+msgstr "Actualización de la API de teclas"
+
+#: html/config.php:97
+msgid "Connect to foursquare&reg;"
+msgstr "Conectarse a foursquare ®"
+
+#: html/config.php:110
+msgid "Connected to foursquare&reg;"
+msgstr "Conectado a foursquare ®"
+
+#: html/config.php:149
+msgid "OAuth Token"
+msgstr "OAuth Token"
+
+#: html/config.php:153
+msgid "OAuth Token from foursquare&reg;"
+msgstr "OAuth Token de foursquare ®"
+
+#: html/config.php:161
+msgid "Disconnect from foursquare&reg;"
+msgstr "Desconectar del cuadrado ®"
+
+#: html/config.php:167
+msgid "FourSquareAPI Stats"
+msgstr "FourSquareAPI Estadísticas"
+
+#: html/config.php:185
+#: html/config.php:210
+#: html/config.php:235
+#: html/config.php:260
+msgid "last cached"
+msgstr "último en caché"
+
+#: html/config.php:191
+msgid "Venue History Cache Life"
+msgstr "Historia lugar caché vida"
+
+#: html/config.php:195
+#: html/config.php:220
+#: html/config.php:245
+#: html/config.php:270
+msgid "Never"
+msgstr "nunca"
+
+#: html/config.php:196
+#: html/config.php:221
+#: html/config.php:246
+#: html/config.php:271
+msgid "1 minute"
+msgstr "1 minuto"
+
+#: html/config.php:197
+#: html/config.php:222
+#: html/config.php:247
+#: html/config.php:272
+msgid "2 minutes"
+msgstr "2 minutos"
+
+#: html/config.php:198
+#: html/config.php:223
+#: html/config.php:248
+#: html/config.php:273
+msgid "3 minutes"
+msgstr "3 minutos"
+
+#: html/config.php:199
+#: html/config.php:224
+#: html/config.php:249
+#: html/config.php:274
+msgid "4 minutes"
+msgstr "4 minutos"
+
+#: html/config.php:200
+#: html/config.php:225
+#: html/config.php:250
+#: html/config.php:275
+msgid "5 minutes"
+msgstr "5 minutos"
+
+#: html/config.php:206
+msgid "Checkins"
+msgstr "Checkins"
+
+#: html/config.php:216
+msgid "Checkins Cache Life"
+msgstr "Checkins vida de caché"
+
+#: html/config.php:241
+msgid "Mayorships Cache Life"
+msgstr "Alcaldías de vida de caché"
+
+#: html/config.php:266
+msgid "Badges Cache Life"
+msgstr "Insignias vida de caché"
+
+#: html/config.php:283
+msgid "Update Cache Settings"
+msgstr "Paramètres du cache mise à jour"
+

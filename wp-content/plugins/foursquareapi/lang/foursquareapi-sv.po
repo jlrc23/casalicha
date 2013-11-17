@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FourSquareAPI\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-11 02:52+1000\n"
+"PO-Revision-Date: 2011-11-11 03:09+1000\n"
+"Last-Translator: NZGuru <admin@nzguru.net>\n"
+"Language-Team: NZGuru <admin@nzguru.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: FourSquareAPI.php:52
+msgid "FourSquareAPI Settings"
+msgstr "FourSquareAPI Inställningar"
+
+#: FourSquareAPI.php:52
+msgid "FourSquareAPI"
+msgstr "FourSquareAPI"
+
+#: FourSquareAPI.php:241
+msgid "This widget displays your foursquare&reg; venue data."
+msgstr "Den här lappen visar fyrkant ® plats uppgifter."
+
+#: FourSquareAPI.php:242
+#, fuzzy
+msgid "FourSquareAPI Venues"
+msgstr "FourSquareAPI Venues"
+
+#: FourSquareAPI.php:276
+#: FourSquareAPI.php:423
+msgid "Data Type"
+msgstr "Datatyp"
+
+#: FourSquareAPI.php:280
+#: html/config.php:181
+msgid "Venue History"
+msgstr "Plats Historia"
+
+#: FourSquareAPI.php:283
+msgid "Recent Checkins"
+msgstr "Nyligen Checkins"
+
+#: FourSquareAPI.php:286
+#: html/config.php:231
+msgid "Mayorships"
+msgstr "Mayorships"
+
+#: FourSquareAPI.php:290
+#: FourSquareAPI.php:431
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: FourSquareAPI.php:294
+#: FourSquareAPI.php:435
+msgid "Widget Byline"
+msgstr "Widget Byline"
+
+#: FourSquareAPI.php:298
+#: FourSquareAPI.php:439
+msgid "Widget Width"
+msgstr "Widget Bredd"
+
+#: FourSquareAPI.php:298
+#: FourSquareAPI.php:439
+msgid "(in px)"
+msgstr "(i px)"
+
+#: FourSquareAPI.php:302
+#: FourSquareAPI.php:443
+msgid "Map Height"
+msgstr "Karta Höjd"
+
+#: FourSquareAPI.php:302
+#: FourSquareAPI.php:443
+msgid "(in px, 0 to disable map)"
+msgstr "(i px, 0 för att avaktivera karta)"
+
+#: FourSquareAPI.php:306
+#: FourSquareAPI.php:447
+msgid "Initial Map Zoom Level"
+msgstr "Inledande Karta Zoomnivå"
+
+#: FourSquareAPI.php:310
+msgid "Venues Limit"
+msgstr "Arenor Limit"
+
+#: FourSquareAPI.php:310
+msgid "(0 to show all available)"
+msgstr "(0 för att visa alla tillgängliga)"
+
+#: FourSquareAPI.php:317
+#: FourSquareAPI.php:464
+msgid "Show Timestamp"
+msgstr "Visa Tidsstämpel"
+
+#: FourSquareAPI.php:322
+#: FourSquareAPI.php:474
+msgid "Show Address"
+msgstr "Visa Adress"
+
+#: FourSquareAPI.php:327
+#: FourSquareAPI.php:479
+msgid "Show Stats"
+msgstr "Visa Statistik"
+
+#: FourSquareAPI.php:332
+#: FourSquareAPI.php:484
+msgid "List instead of scrolling box"
+msgstr "Lista istället för att rulla box"
+
+#: FourSquareAPI.php:335
+#: FourSquareAPI.php:487
+msgid "Autoscroll Rate"
+msgstr "Auto.Rulln Rate"
+
+#: FourSquareAPI.php:335
+#: FourSquareAPI.php:487
+msgid "(in milliseconds, 0 to disable, ignored if list)"
+msgstr "(i millisekunder, 0 för att avaktivera, ignoreras om listan)"
+
+#: FourSquareAPI.php:339
+#: FourSquareAPI.php:491
+msgid "Unique ID"
+msgstr "Unikt ID"
+
+#: FourSquareAPI.php:346
+#: FourSquareAPI.php:498
+msgid "Link back to NZGuru (I appreciate it)"
+msgstr "Länk tillbaka till NZGuru (Jag uppskattar det)"
+
+#: FourSquareAPI.php:378
+#: FourSquareAPI.php:532
+msgid "powered by"
+msgstr "powered by"
+
+#: FourSquareAPI.php:386
+msgid "This widget displays your foursquare&reg; badge data."
+msgstr "Den här lappen visar fyrkant ® badge data."
+
+#: FourSquareAPI.php:387
+#, fuzzy
+msgid "FourSquareAPI Badges"
+msgstr "FourSquareAPI Emblem"
+
+#: FourSquareAPI.php:427
+#: html/config.php:256
+msgid "Badges"
+msgstr "Emblem"
+
+#: FourSquareAPI.php:454
+msgid "Show Description"
+msgstr "Visa Beskrivning"
+
+#: FourSquareAPI.php:459
+msgid "Show Only Earned"
+msgstr "Visa Endast Intjänad"
+
+#: FourSquareAPI.php:469
+msgid "Show Venue"
+msgstr "Visa Venue"
+
+#: FourSquareAPI.php:862
+msgid "Not earned yet!"
+msgstr "Inte fått än!"
+
+#: FourSquareAPI.php:1067
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: FourSquareAPI.php:1069
+msgid "Y/m/d"
+msgstr ""
+
+#: FourSquareAPI.php:1070
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: FourSquareAPI.php:1070
+msgid "Unlocked at"
+msgstr "Olåst vid"
+
+#: FourSquareAPI.php:1070
+msgid "Last visited"
+msgstr "Senast besökta"
+
+#: FourSquareAPI.php:1070
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: FourSquareAPI.php:1103
+msgid "VENUE TIPS"
+msgstr "VENUE TIPS"
+
+#: FourSquareAPI.php:1104
+msgid "TOTAL PEOPLE"
+msgstr "SAMMANLAGDA FOLKET"
+
+#: FourSquareAPI.php:1105
+msgid "TOTAL CHECK-INS"
+msgstr "SUMMA INCHECKNINGAR"
+
+#: html/config.php:4
+msgid "Like this plugin?"
+msgstr "Gillar plugin?"
+
+#: html/config.php:6
+msgid "Please consider one of the following ..."
+msgstr "Tänk på något av följande ..."
+
+#: html/config.php:8
+msgid "Enable the credit link in the widget"
+msgstr "Aktivera den kredit länken i widgeten"
+
+#: html/config.php:9
+msgid "Give it a rating on"
+msgstr "Ge det ett betyg på"
+
+#: html/config.php:10
+msgid "Donate for development"
+msgstr "Donera för utveckling"
+
+#: html/config.php:36
+msgid "Not connected to foursquare&reg;"
+msgstr "Inte ansluten till fyrkant ®"
+
+#: html/config.php:51
+msgid "The process to set up OAuth authentication for your web site is a simple 3-steps."
+msgstr "Processen för att upprätta OAuth autentisering för din webbplats är en enkel 3-steg."
+
+#: html/config.php:52
+msgid "1. Register this site as an application on "
+msgstr "1. Registrera den här platsen som en ansökan om"
+
+#: html/config.php:52
+msgid "the foursquare&reg; application registration page"
+msgstr "den fyrkant ® ansökan registreringssidan"
+
+#: html/config.php:54
+msgid "If you are not currently logged in, log-in with the foursquare&reg; account which you want associated with this site"
+msgstr "Om du inte är inloggad, logga in med fyrkant ®-konto som du vill associera med den här webbplatsen"
+
+#: html/config.php:55
+msgid "Your Application Name is for your own reference only."
+msgstr "Din ansökan namn är för din egen referens."
+
+#: html/config.php:56
+msgid "Your Application Web Site should be"
+msgstr "Din ansökan webbplats bör"
+
+#: html/config.php:57
+msgid "The WebSite and Callback URL should be "
+msgstr "Webbplatsen och återuppringning URL bör"
+
+#: html/config.php:59
+msgid "Once you have registered your site as an application, you will be provided with two keys."
+msgstr "När du har registrerat din webbplats som en ansökan, kommer du att få med två nycklar."
+
+#: html/config.php:60
+msgid "2. Copy and paste your Client ID and Client Secret into the fields below"
+msgstr "2. Kopiera och klistra in Klient ID och Klient Hemliga i fälten nedan"
+
+#: html/config.php:65
+#: html/config.php:129
+msgid "Client ID"
+msgstr "Klient ID"
+
+#: html/config.php:69
+#: html/config.php:133
+msgid "Client ID from foursquare&reg;"
+msgstr "Klient ID från fyrkant ®"
+
+#: html/config.php:74
+#: html/config.php:139
+msgid "Client Secret"
+msgstr "Klient Hemliga"
+
+#: html/config.php:78
+#: html/config.php:143
+msgid "Client Secret from foursquare&reg;"
+msgstr "Klient Hemliga från fyrkant ®"
+
+#: html/config.php:86
+msgid "3. Now that your have your application details, you may connect to foursquare&reg;"
+msgstr "3. Nu när du har din ansökan detaljer, kan du ansluta till fyrkant ®"
+
+#: html/config.php:92
+msgid "Update API Keys"
+msgstr "Uppdatera API Keys"
+
+#: html/config.php:97
+msgid "Connect to foursquare&reg;"
+msgstr "Anslut till fyrkant ®"
+
+#: html/config.php:110
+msgid "Connected to foursquare&reg;"
+msgstr "Ansluten till fyrkant ®"
+
+#: html/config.php:149
+msgid "OAuth Token"
+msgstr "OAuth Token"
+
+#: html/config.php:153
+msgid "OAuth Token from foursquare&reg;"
+msgstr "OAuth Token från fyrkant ®"
+
+#: html/config.php:161
+msgid "Disconnect from foursquare&reg;"
+msgstr "Koppla från fyrkant ®"
+
+#: html/config.php:167
+msgid "FourSquareAPI Stats"
+msgstr "FourSquareAPI Stats"
+
+#: html/config.php:185
+#: html/config.php:210
+#: html/config.php:235
+#: html/config.php:260
+msgid "last cached"
+msgstr "senaste cachade"
+
+#: html/config.php:191
+msgid "Venue History Cache Life"
+msgstr "Plats Historia Cache Livet"
+
+#: html/config.php:195
+#: html/config.php:220
+#: html/config.php:245
+#: html/config.php:270
+msgid "Never"
+msgstr "Aldrig"
+
+#: html/config.php:196
+#: html/config.php:221
+#: html/config.php:246
+#: html/config.php:271
+msgid "1 minute"
+msgstr "1 minut"
+
+#: html/config.php:197
+#: html/config.php:222
+#: html/config.php:247
+#: html/config.php:272
+msgid "2 minutes"
+msgstr "2 minuter"
+
+#: html/config.php:198
+#: html/config.php:223
+#: html/config.php:248
+#: html/config.php:273
+msgid "3 minutes"
+msgstr "3 minuter"
+
+#: html/config.php:199
+#: html/config.php:224
+#: html/config.php:249
+#: html/config.php:274
+msgid "4 minutes"
+msgstr "4 minuter"
+
+#: html/config.php:200
+#: html/config.php:225
+#: html/config.php:250
+#: html/config.php:275
+msgid "5 minutes"
+msgstr "5 minuter"
+
+#: html/config.php:206
+msgid "Checkins"
+msgstr "Checkins"
+
+#: html/config.php:216
+msgid "Checkins Cache Life"
+msgstr "Checkins Cache Livet"
+
+#: html/config.php:241
+msgid "Mayorships Cache Life"
+msgstr "Mayorships Cache Livet"
+
+#: html/config.php:266
+msgid "Badges Cache Life"
+msgstr "Emblem Cache Livet"
+
+#: html/config.php:283
+msgid "Update Cache Settings"
+msgstr "Uppdatera Cache Inställningar"
+

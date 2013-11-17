@@ -1,0 +1,57 @@
+article.mnuComida h2{
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+   font-size: 18px;
+}
+article.mnuComida  ul{
+	list-style-type: none;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+article.mnuComida  ul li{
+	margin: 1px 0 1px 0;
+	padding: 3px 0 3px 5px;
+
+}
+article.mnuComida  ul li:hover{
+    background-color:#FAE9E3;
+	border-bottom:1px dashed #666;
+}
+section#mnuMainComida{
+	display: inline-block;
+	float: left;
+	width: 25%;
+	margin-right:1%; 
+}
+section#platillos{
+	display: inline-block;
+	float: left;
+	width: 70%;
+	margin-left:1%; 
+}
+.mnuMainComida p, .lnkComida{ 
+    text-align: center!important; 
+    display: block;
+}
+.price{
+    float: right;
+    font-weight: bold;
+	color:#F00;
+}
+.price:before{
+	content:"$ ";
+	
+}
+ul, li{
+	list-style: none !important;}
+#mnuMainComida ul{
+	list-style: none !important;
+	margin: 0 0 0 0;
+}
+ #mnuMainComida ul li {
+	list-style: none !important; 
+ }
+#mnuMainComida li.selected{
+	background:-moz-linear-gradient(center top , #FFFCB5, #F4CBCB) repeat scroll 0 0 transparent; background: -webkit-gradient(linear, center top, center bottom, from(#FFFCB5), to(#F4CBCB)); background: -o-linear-gradient(top, #FFFCB5 0%,#F4CBCB 99%); /* Opera 11.10+ */ background: -ms-linear-gradient(top, #FFFCB5 0%,#F4CBCB 99%); /* IE10+ */ margin-left:0 !important; margin-right:0 !important; border:1px solid #BBBBBB; background-color: #F4CBCB; width:100%; color:#333333;
+	list-style: none !important;
+}
